@@ -1,4 +1,4 @@
 
 i am in branch1 
-added
+added second time
 trying merging branch
